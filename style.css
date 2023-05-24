@@ -31,6 +31,10 @@
         display: block;
       }
 
+.nav-link {
+  text-align: right;
+}
+
 .jumbotron {
   background-image: url('img/img3.jpg');
   height: 500px;
